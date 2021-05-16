@@ -13,5 +13,10 @@
 		"url": "https://idontknow/todo.git",
 	},
 	"description": "This is a simple app that helps me to leverage my skills in IT",
-	"keywords": ["Developers", "QA", "Product Owner"]
+	"keywords": [
+		"Developers", 
+		"QA", 
+		"Product Owner",
+		"freecodecamp"
+	]
 }
