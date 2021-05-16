@@ -1,5 +1,6 @@
 {
 	"author": "Andre Dada",
+	"version": "0.0.111",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
