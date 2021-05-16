@@ -10,7 +10,8 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://idontknow/todo.git",
 	},
-	"description": "This is a simple app that helps me to leverage my skills in IT"
+	"description": "This is a simple app that helps me to leverage my skills in IT",
+	"keywords": ["Developers", "QA", "Product Owner"]
 }
