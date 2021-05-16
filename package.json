@@ -4,19 +4,15 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"license": "opensource v1.1AD",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git",
+		"url": "https://idontknow/todo.git"
 	},
 	"description": "This is a simple app that helps me to leverage my skills in IT",
-	"keywords": [
-		"Developers", 
-		"QA", 
-		"Product Owner",
-		"freecodecamp"
-	]
+	"keywords": [ "Developers", "QA", "Product Owner", "freecodecamp" ]
 }
